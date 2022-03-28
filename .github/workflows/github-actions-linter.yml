@@ -1,0 +1,10 @@
+name: Linter_Flake8
+on: [push]
+jobs:
+  Linter_Flake8:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Linter
+        run: |
+          make lint
+          

@@ -1,0 +1,16 @@
+name: LinterFlake8
+
+on: [push]
+  
+jobs:
+  LinterFlake8:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Install dependencies
+      run: make
+      
+    - name: LintFlake8
+      run: make lint
+      

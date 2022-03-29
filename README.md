@@ -7,3 +7,5 @@
 ![LinterFlake8](https://github.com/KermittheFroggg/python-project-lvl1/actions/workflows/Lint.yml/badge.svg)
 
 https://asciinema.org/a/P6jv1yOCeddmElqT7ESmwiaaL
+
+https://asciinema.org/a/axpvOeWK3w19ErubbcVn2M7Qt

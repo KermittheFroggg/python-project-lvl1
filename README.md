@@ -7,4 +7,4 @@
 ![LinterFlake8](https://github.com/KermittheFroggg/python-project-lvl1/actions/workflows/Lint.yml/badge.svg)
 
 ### Brain-even:
-[![Brain-even](https://github.com/KermittheFroggg/python-project-lvl1/actions/workflows/asciinema/badge.svg)](https://asciinema.org/a/P6jv1yOCeddmElqT7ESmwiaaL)
+[![asciinema](https://github.com/KermittheFroggg/python-project-lvl1/actions/workflows/asciinema/badge.svg)](https://asciinema.org/a/P6jv1yOCeddmElqT7ESmwiaaL)

@@ -6,4 +6,4 @@
 ### LinterFlake8:
 ![LinterFlake8](https://github.com/KermittheFroggg/python-project-lvl1/actions/workflows/Lint.yml/badge.svg)
 
-![asciinema brain even](https://asciinema.org/a/P6jv1yOCeddmElqT7ESmwiaaL)
+https://asciinema.org/a/P6jv1yOCeddmElqT7ESmwiaaL

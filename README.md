@@ -5,3 +5,6 @@
 
 ### LinterFlake8:
 ![LinterFlake8](https://github.com/KermittheFroggg/python-project-lvl1/actions/workflows/Lint.yml/badge.svg)
+
+### Even:
+[![Brain-even](https://github.com/KermittheFroggg/python-project-lvl1/actions/workflows/Lint.yml/badge.svg)](https://asciinema.org/a/P6jv1yOCeddmElqT7ESmwiaaL)

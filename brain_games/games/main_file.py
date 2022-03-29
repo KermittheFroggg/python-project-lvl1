@@ -1,6 +1,6 @@
 import prompt
-import random
 from brain_games.games.calc import calc
+from brain_games.games.gcd import gcd
 
 
 def welcome_user():
@@ -9,16 +9,21 @@ def welcome_user():
         print('Hello, ' + name + '!')
     return name
 
+
 def start_game(name_game):
     name = welcome_user()
     if name_game == 'even':
         print('Answer "yes" if the number is even, otherwise answer "no".')
     elif name_game == 'calc':
         print('What is the result of the expression?')
+    elif name_game == 'gcd':
+        print('Find the greatest common divisor of given numbers')
     i = 1
     while i <= 3:
         if name_game == 'calc':
             res, answer, answer2 = calc(name_game)
+        if name_game == 'gcd':
+            res, answer, answer2 = gcd(name_game)
         if res:
             print('Correct!')
             if i == 3:

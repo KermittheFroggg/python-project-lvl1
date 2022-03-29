@@ -19,4 +19,3 @@ def calc(name_game):
         res = answer == str(number1 * number2)
         answer2 = number1 * number2
     return res, answer, answer2
-

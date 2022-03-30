@@ -2,7 +2,7 @@ import prompt
 import random
 
 
-def gcd(name_game):
+def gcd():
     number1 = random.randint(1, 100)
     number2 = random.randint(1, 100)
     print('Question: ' + str(number1) + ' ' + str(number2))

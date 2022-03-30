@@ -2,7 +2,7 @@ import prompt
 import random
 
 
-def calc(name_game):
+def calc():
     number1 = random.randint(1, 10)
     number2 = random.randint(1, 10)
     sign = [' + ', ' - ', ' * ']
